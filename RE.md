@@ -8,6 +8,12 @@ Queen Elizabeth II,
 エリザベス2世  ( Erizabesu 2-sei ), 
 伊麗莎白二世   ( Yīlìshābái èr shì ) 
 ```  
+###[https://emojipedia.org/see-no-evil-monkey/]   (Mizaru   🙈 See-No-Evil Monkey)  
+###[https://emojipedia.org/hear-no-evil-monkey/]  (Kikazaru 🙉 Hear-No-Evil Monkey)  
+###[https://emojipedia.org/speak-no-evil-monkey/] (Iwazaru  🙊 Speak-No-Evil Monkey)  
 ###[]()  
 ###[]()  
 ###[]()  
+###[]()  
+###[]()  
+
