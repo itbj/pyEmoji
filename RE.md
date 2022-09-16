@@ -13,8 +13,12 @@ Queen Elizabeth II,
 ###[Kikazaru 🙉 Hear-No-Evil Monkey](https://emojipedia.org/hear-no-evil-monkey/)  
 ###[Iwazaru  🙊 Speak-No-Evil Monkey](https://emojipedia.org/speak-no-evil-monkey/)  
 ###[统一码联盟引入31个新表情符号，谷歌：已安排](https://finance.sina.com.cn/tech/internet/2022-09-14/doc-imqqsmrn9082990.shtml?cre=tianyi&mod=pcpager_tech&loc=9&r=0&rfunc=67&tj=cxvertical_pc_pager_spt&tr=174)  
+###[Notepad ++在UTF-8中插入特殊的Unicode字符](https://qastack.cn/superuser/576431/notepad-inserting-special-unicode-characters-in-utf-8)  
 ###[]()  
 ###[]()  
 ###[]()  
 ###[]()  
-
+###[]()  
+###[]()  
+###[]()  
+###[]()  
