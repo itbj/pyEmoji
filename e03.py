@@ -16,3 +16,12 @@ string_u='あ'
 print(string_u.encode('UTF-8'))
 print(string_u.encode('UTF-16'))
 print(string_u.encode('UTF-32'))
+# https://youtu.be/ut74oHojxqo?t=493
+s="👍👌"
+print (len(s))
+print (s[0])
+print (s[1])
+s=u"👍👌"
+print (len(s))
+print (s[0])
+print (s[1])
