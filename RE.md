@@ -22,7 +22,7 @@ Queen Elizabeth II,
 ###[https://www.unicode.org/charts/PDF/U1F600.pdf](https://www.unicode.org/charts/PDF/U1F600.pdf)  
 ###[ Unicode character inspector](https://apps.timwhitlock.info/unicode/inspect?s=%F0%9F%80%9A)  🀚🀚🀚🀚🀚  
 ###[Python encode()和decode()方法：字符串编码转换](http://c.biancheng.net/view/4305.html)  
-###[]()  
+###[你懂乱码吗？锟斤拷烫烫烫（详解ASCII、Unicode、UTF-32、UTF-8编码）| Mojibake?](https://www.youtube.com/watch?v=kOp0W08Ad0s)  
 ###[]()  
 ###[]()  
 ###[]()  
