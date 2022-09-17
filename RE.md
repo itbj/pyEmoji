@@ -21,4 +21,10 @@ Queen Elizabeth II,
 ###[Emoji表情含义查询](https://www.qqxiuzi.cn/zh/emoji.php)  
 ###[https://www.unicode.org/charts/PDF/U1F600.pdf](https://www.unicode.org/charts/PDF/U1F600.pdf)  
 ###[ Unicode character inspector](https://apps.timwhitlock.info/unicode/inspect?s=%F0%9F%80%9A)  🀚🀚🀚🀚🀚  
+###[Python encode()和decode()方法：字符串编码转换](http://c.biancheng.net/view/4305.html)  
+###[]()  
+###[]()  
+###[]()  
+###[]()  
+###[]()  
 ###[]()  
